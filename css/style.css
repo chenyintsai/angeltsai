@@ -8361,7 +8361,7 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  /* background-position: center center; */}
 
 .bg-light {
   background: #f8f9fa !important; }
