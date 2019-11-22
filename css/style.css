@@ -401,6 +401,18 @@ mark,
   margin-left: auto;
   margin-right: auto }
 
+  .img-fluid_1 {
+  max-width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+
+  .img-fluid_2 {
+  max-width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
