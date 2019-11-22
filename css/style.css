@@ -429,6 +429,10 @@ mark,
   display: block;
   }
 
+.imgclass {
+    display: table-cell;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
