@@ -421,12 +421,14 @@ mark,
 
   .img-fluida {
   max-width: 50%;
-  display: block;
+  display: block
+  float-left;
   }
 
 .img-fluidb {
   max-width: 70%;
-  display: block;
+  display: block
+  float-left;
   }
 
 .imgclass {
