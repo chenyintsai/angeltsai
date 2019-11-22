@@ -419,6 +419,16 @@ mark,
   margin-left: auto;
   margin-right: auto }
 
+  .img-fluida {
+  max-width: 50%;
+  display: block;
+  }
+
+.img-fluidb {
+  max-width: 70%;
+  display: block;
+  }
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
