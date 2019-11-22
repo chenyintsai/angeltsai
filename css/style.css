@@ -433,6 +433,17 @@ mark,
     display: table-cell;
 }
 
+.div_1 {
+
+display: inline-block;
+
+}
+
+.div_2{
+
+display: inline-block;
+
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
