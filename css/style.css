@@ -422,23 +422,25 @@ mark,
   .img-fluida {
   max-width: 40%;
   display: block;
-  float-left;
+  margin-left: auto;
+  margin-right: auto
   }
 
 .img-fluidb {
   max-width: 70%;
   display: block;
-  float-left;
+  margin-left: auto;
+  margin-right: auto
   }
 
  .img-fluidc {
   max-width: 30%;
-  display: block;
+  display: block
   }
 
 .img-fluidd {
   max-width: 70%;
-  display: block;
+  display: block
   }
 
 .imgclass {
@@ -447,20 +449,20 @@ mark,
 
 .div_1 {
 
-display: inline-block;
+display: inline-block
 
 }
 
 .div_2{
 
-display: inline-block;
+display: inline-block
 
 }
 
 .content_1000 {
   display: flex;
   flex-flow: row nowrap;
-  align-items: center;
+  align-items: center
 }
 .img-thumbnail {
   padding: 0.25rem;
