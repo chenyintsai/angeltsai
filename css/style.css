@@ -456,6 +456,12 @@ display: inline-block;
 display: inline-block;
 
 }
+
+.content_1000 {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
