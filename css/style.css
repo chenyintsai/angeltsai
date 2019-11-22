@@ -462,7 +462,8 @@ display: inline-block
 .content_1000 {
   display: flex;
   flex-flow: row nowrap;
-  align-items: center
+  margin-left: auto;
+  margin-right: auto
 }
 .img-thumbnail {
   padding: 0.25rem;
