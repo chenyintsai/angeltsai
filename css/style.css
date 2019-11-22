@@ -961,7 +961,7 @@ pre {
     .col-md-3_1 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33%;
-    flex: 0 0 33%;
+   flex: 0 0 29.9%;
     max-width: 33%; }
   .col-md-4 {
     -webkit-box-flex: 0;
