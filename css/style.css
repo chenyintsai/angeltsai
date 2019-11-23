@@ -395,11 +395,15 @@ mark,
   .blockquote-footer::before {
     content: "\2014 \00A0"; }
 
+
+
+
 .img-fluid {
   max-width: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto }
+
 
   .img-fluid_1 {
   max-width: 30%;
@@ -442,6 +446,14 @@ mark,
   max-width: 70%;
   display: block
   }
+
+ .img-fluide {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+  }
+
 
 .imgclass {
     display: table-cell;
