@@ -7782,7 +7782,8 @@ h1, h2, h3, h4, h5,
   display: block;
   z-index: 0;
   position: relative;
-  margin-bottom: 0px; }
+  margin-bottom: 4px;
+  margin-top: 4px; }
   .photography-entry .overlay {
     position: absolute;
     top: 0;
