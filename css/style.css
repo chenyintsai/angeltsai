@@ -7834,7 +7834,35 @@ h1, h2, h3, h4, h5,
       font-weight: 400;
       color: #b3b3b3;
       border-bottom: 2px solid #b3b3b3; }
-
+  .hero-wrap-1 .text {
+    z-index: 1;
+    font-size: 15px;
+    font-weight: 500; }
+    .hero-wrap .text .img {
+      width: 200px;
+      height: 200px;
+      margin: 0 auto;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      border-radius: 50%; }
+    .hero-wrap .text .subheading {
+      font-size: 24px;
+      color: #bfbfbf;
+      font-weight: 400; }
+    .hero-wrap .text h1 {
+      letter-spacing: 1px;
+      font-weight: 900;
+      color: #ccb78f; }
+      .hero-wrap .text h1 span {
+        color: #000000; }
+      @media (max-width: 991.98px) {
+        .hero-wrap .text h1 {
+          font-size: 22px; } }
+    .hero-wrap .text .btn-custom {
+      font-weight: 400;
+      color: #b3b3b3;
+      border-bottom: 2px solid #b3b3b3; }
 .photography-entry {
   height: 250px;
   display: block;
